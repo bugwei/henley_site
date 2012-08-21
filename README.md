@@ -1,7 +1,7 @@
 == Welcome to Rails
 
 
-CRAZY BUSINESS
+This is the test site development for two guys in a new country
 
 
 Rails is a web-application framework that includes everything needed to create
