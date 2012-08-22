@@ -1,5 +1,7 @@
 HenleySite::Application.routes.draw do
-  root to: 'public#hello.html'
+  
+  root :controller => 'static', :action => 'public/index.html'
+  
   get "static_pages/home"
 
   get "static_pages/help"
