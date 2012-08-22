@@ -1,4 +1,5 @@
 HenleySite::Application.routes.draw do
+  root to: 'public#hello.html'
   get "static_pages/home"
 
   get "static_pages/help"
